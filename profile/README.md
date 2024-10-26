@@ -1,12 +1,20 @@
-## Hi there 👋
+# GDG UEM Kolkata - Google Developer Group on Campus
 
-<!--
+Welcome to the official GitHub for **GDG UEM Kolkata**! This repository hosts projects, resources, and materials from our community events and activities.
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GDG UEM Kolkata is a campus chapter of the Google Developer Group, focusing on helping students learn, share, and grow through hands-on experience with technologies like Web Development, Cloud Computing, Machine Learning, Android Development, and more.
+
+## Projects
+
+- **Project 1**: Brief description with a link to the repo.
+- **Project 2**: Brief description with a link to the repo.
+
+## Join Us
+
+We welcome students from UEM Kolkata interested in development, no matter their level of experience. Everyone has a place in our GDG community!
+
+## Code of Conduct
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and respectful community.

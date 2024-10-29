@@ -1,10 +1,10 @@
-# GDG UEM Kolkata - Google Developer Group on Campus
+# GDG UEM Kolkata - Google Developer Groups on Campus
 
 Welcome to the official GitHub for **GDG UEM Kolkata**! This repository hosts projects, resources, and materials from our community events and activities.
 
 ## About Us
 
-GDG UEM Kolkata is a campus chapter of the Google Developer Group, focusing on helping students learn, share, and grow through hands-on experience with technologies like Web Development, Cloud Computing, Machine Learning, Android Development, and more.
+GDG UEM Kolkata is a campus chapter of the Google Developer Groups, focusing on helping students learn, share, and grow through hands-on experience with technologies like Web Development, Cloud Computing, Machine Learning, Android Development, and more.
 
 ## Projects
 
